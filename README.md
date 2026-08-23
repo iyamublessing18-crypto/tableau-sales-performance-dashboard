@@ -6,6 +6,10 @@ This project presents an interactive Sales Performance Dashboard created using T
 
 The purpose of the dashboard is to transform sales data into clear visual insights that can support business decision-making.
 
+## Dashboard Preview
+
+![Sales Performance Dashboard](Dashboard%201%20(1).png)
+
 ## Dashboard Features
 
 The dashboard includes:
